@@ -13,7 +13,6 @@ console.log(SCREEN_WIDTH);
 console.log(SCREEN_HEIGHT);
 
 
-
 const weatherImages = {
   sunny: require('../../assets/images/halfsun.png'),
   rainy: require('../../assets/images/halfrain.png'),
